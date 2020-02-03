@@ -1,0 +1,142 @@
+@media only screen and (max-width:1104px){
+.section-4 .card {
+    width: 20rem;
+    margin-top: 10vmin;
+}
+}
+
+@media only screen and (max-width:1096px){
+    .section-3 .desktop{
+        margin: 1em 10rem;
+    }
+}
+
+@media only screen and (max-width:1004px){
+    .section-4 .card {
+        width: 18rem;
+        margin-top: 10vmin;
+    }
+}
+
+@media only screen and (max-width:976px){
+    .section-3 .desktop{
+        margin: 1em 8rem;
+    }
+}
+
+
+@media only screen and (max-width:900px){
+    .section-4 .card {
+        width: 16rem;
+        margin-top: 10vmin;
+    }
+}
+
+@media only screen and (max-width:812px){
+    .section-4 .card {
+        width: 15rem;
+        margin-top: 10vmin;
+    }
+}
+
+
+@media only screen and (max-width:768px){
+    header .navbar-brand{
+        padding-left: 1rem;
+    }
+
+    .section-1 .row .col-md-6 .panel{
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+
+    .section-2 .cover{
+        background-position: -55vmin -22vmin;
+    }
+
+    .numbers .rect{
+        width: 10rem;
+        height: 8rem;
+    }
+
+    .numbers .rect h1{
+        font-size: 2rem;
+    }
+
+    .section-3{
+        height: inherit;
+        padding: 10vmin !important;
+    }
+
+    .section-3 .row h1{
+        padding: 6vmin 4vmin;
+    }
+
+    .section-3 .row .col-md-6{
+        text-align: center !important;
+    }
+
+    .section-3 .desktop{
+        margin: 1em 6rem;
+    }
+
+    .section-3 .desktop i{
+        font-size: 8vmin;
+    }
+
+    .section-4 .carousel-inner{
+        width: 25rem;
+        margin-left: -5rem;
+        padding-top: 3rem;
+    }
+
+    .section-4 .carousel-item{
+        padding-left: 0.6rem;
+    }
+
+    .section-4 .team{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+
+}
+
+@media only screen and (max-width:767px){
+    .section-4 .carousel-inner{
+        margin-left: 40vmin;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .section-4 .carousel-inner{
+        margin-left: 25vmin;
+        }
+}
+
+@media only screen and (max-width:575px){
+    .section-4 .carousel-inner{
+        margin-left: 10vmin;
+        }
+}
+
+@media only screen and (max-width:465px){
+    footer .row .col-md-2{
+        margin-top: 10vmin;
+        }
+}
+
+@media only screen and (max-width:465px){
+    .section-4 .carousel-inner{
+        margin-left: -5vmin;
+        }
+}
+
+@media only screen and (max-width:360px){
+    .section-4 .carousel-inner{
+        margin-left: -15vmin;
+        }
+}
+
+
